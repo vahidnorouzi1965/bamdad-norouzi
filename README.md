@@ -1,2 +1,0 @@
-# bamdad-norouzi
-general control
